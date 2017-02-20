@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.util.Date;
 
 public class MyStrategy extends com.jfx.strategy.Strategy{
-	static { System.setProperty("nj4x_activation_key", "226454719"); }
 	
 	private Date lastBarTimeStamp = new Date();
     public void init(String symbol, int period, StrategyRunner strategyRunner) {
