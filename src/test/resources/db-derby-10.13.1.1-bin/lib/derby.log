@@ -1,0 +1,14 @@
+Fri Feb 24 01:03:43 EST 2017 : Apache Derby Network Server - 10.13.1.1 - (1765088) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Feb 24 01:04:10 EST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-6eb7-cb57-ffffe856b7f4 
+on database directory /Users/martinfournier/git/springforex4java/src/test/resources/db-derby-10.13.1.1-bin/lib/forex with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/Users/martinfournier/git/springforex4java/src/test/resources/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b16
+user.dir=/Users/martinfournier/git/springforex4java/src/test/resources/db-derby-10.13.1.1-bin/lib
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=/Users/martinfournier/git/springforex4java/src/test/resources/db-derby-10.13.1.1-bin/lib
+Database Class Loader started - derby.database.classpath=''
