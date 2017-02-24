@@ -8,7 +8,13 @@ import com.jfx.strategy.StrategyRunner;
 import java.io.IOException;
 import java.util.Date;
 
+import org.springframework.stereotype.Component;
+@Component
 public class MyStrategy extends com.jfx.strategy.Strategy{
+<<<<<<< Updated upstream
+=======
+	//static { System.setProperty("nj4x_activation_key", "226454719"); }
+>>>>>>> Stashed changes
 	
 	private Date lastBarTimeStamp = new Date();
     public void init(String symbol, int period, StrategyRunner strategyRunner) {
